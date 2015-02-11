@@ -6,10 +6,11 @@ Demo project on how to submit content to Microsoft Azure Service Bus / EventHub 
 
 ## compile the example
 ```shell
-mvn clean compile```
-
+mvn clean compile
+```
 ## run the example
 ```shell
-mvn exec:java```
+mvn exec:java
+```
 
 
